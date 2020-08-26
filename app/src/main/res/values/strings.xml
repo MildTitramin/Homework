@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="textView">Count Down To Election Day</string>
+    <string name="Days">Days</string>
+    <string name="Hours">Hours</string>
+    <string name="Minutes">Minutes</string>
+    <string name="Seconds">Seconds</string>
+    <string name="Next_button">Next</string>
+</resources>
