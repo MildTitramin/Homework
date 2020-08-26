@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Homework</string>
-    <string name="textView">นับถอยหลังเลือกตั้ง</string>
+    <string name="textView">นับถอยหลังวันเลือกตั้ง</string>
     <string name="Days" >วัน</string>
     <string name="Hours" >ชั่วโมง</string>
     <string name="Minutes" >นาที</string>
